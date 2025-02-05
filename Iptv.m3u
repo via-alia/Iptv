@@ -1,0 +1,146 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Canali RAI",Rai 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7
+#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Canali RAI",Rai 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-3-kwvj7ve82k1u.png" group-title="Canali RAI",Rai 3
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rete-4-5i5i8lcwinzn.png" group-title="Canali Mediaset",Rete 4 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-5-3lle0v8ngp9r.png" group-title="Canali Mediaset",Canale 5 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italia-1-mqv4qqe3s55q.png" group-title="Canali Mediaset",Italia 1 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la-7.png" group-title="Altri Canali Nazionali",La 7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8
+#EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="Altri Canali Nazionali",TV8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/nove.png" group-title="Altri Canali Nazionali",Nove
+https://i.mjh.nz/SamsungTVPlus/ITBD4400008Z5.m3u8
+#EXTINF:-1 tvg-id="Locale" group-title="Altri Canali Nazionali",Locale
+https://fdgd
+#EXTINF:-1 tvg-id="Locale" group-title="Altri Canali Nazionali",Locale
+https://fdgd
+#EXTINF:-1 tvg-id="Locale" group-title="Altri Canali Nazionali",Locale
+https://fdgd
+#EXTINF:-1 tvg-id="Locale" group-title="Altri Canali Nazionali",Locale
+https://fdgd
+#EXTINF:-1 tvg-id="Locale" group-title="Altri Canali Nazionali",Locale
+https://fdgd
+#EXTINF:-1 tvg-id="Locale" group-title="Altri Canali Nazionali",Locale
+https://fdgd
+#EXTINF:-1 tvg-id="Locale" group-title="Altri Canali Nazionali",Locale
+https://fdgd
+#EXTINF:-1 tvg-id="Locale" group-title="Altri Canali Nazionali",Locale
+https://fdgd
+#EXTINF:-1 tvg-id="Locale" group-title="Altri Canali Nazionali",Locale
+https://fdgd
+#EXTINF:-1 tvg-id="Locale" group-title="Altri Canali Nazionali",Locale
+https://fdgd
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/mediaset-20.png" group-title="Canali Mediaset",Mediaset 20
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Rai4.it" tvg-chno="21" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4.png" group-title="Canali RAI",Rai 4
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/iris-esdu6qx5lwgz.png" group-title="Canali Mediaset",Iris 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-5-au136o25p81j.png" group-title="Canali RAI",Rai 5
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-movie-pfi6w4ycsdmh.png" group-title="Canali RAI",Rai Movie
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-premium-gdf9izugt6ty.png" group-title="Canali RAI",Rai Premium
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7
+#EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="26" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png" group-title="Altri Canali Nazionali",Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/27-twentyseven.jpg" group-title="Canali Mediaset",27 Twentyseven 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tv-2000.png" group-title="Altri Canali Nazionali",Tv 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/hls_1_3000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la7d.png" group-title="Altri Canali Nazionali",La7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la-5-muo09g2msfvb.png" group-title="Canali Mediaset",La 5 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/real-time.png" group-title="Altri Canali Nazionali",Real Time
+https://i.mjh.nz/SamsungTVPlus/ITBD4400007AR.m3u8
+#EXTINF:-1 tvg-id="QVC.it" tvg-chno="32" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/qvc.png" group-title="Altri Canali Nazionali",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-chno="33" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png" group-title="Altri Canali Nazionali",Food Network
+https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/cine-34-n1ul1ub5ggdf.png" group-title="Canali Mediaset",Cine 34 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/focus-retv97626si2.png" group-title="Canali Mediaset",Focus 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtl-1025-best.png" group-title="Canali Musicali",RTL 102.5 Best
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/chunklist_b2816000.m3u8
+#EXTINF:-1 tvg-id="WarnerTV.it" tvg-chno="37" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/warnertv.png" group-title="Altri Canali Nazionali",Warner TV
+https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/giallo.png" group-title="Altri Canali Nazionali",Giallo
+https://i.mjh.nz/SamsungTVPlus/ITBD44000047C.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/top-crime-s4a5ci5m7mkd.png" group-title="Canali Mediaset",Top Crime 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/boing-18t3y17qtt8y.png" group-title="Altri Canali Nazionali",Boing
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/k2-239krmgdxnct.png" group-title="Altri Canali Nazionali",K2 
+https://i.mjh.nz/SamsungTVPlus/ITBD440000698.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-gulp-db8wx0eccr3u.png" group-title="Canali RAI",Rai Gulp
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-yoyo-hi2h5j83aalt.png" group-title="Canali RAI",Rai Yoyo
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/frisbee.png" group-title="Altri Canali Nazionali",Frisbee
+https://i.mjh.nz/SamsungTVPlus/ITBD4400003JF.m3u8
+#EXTINF:-1 tvg-id="Locale" group-title="Altri Canali Nazionali",Boing Plus
+https://fdgd
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/cartoonito-ddd85wurink4.png" group-title="Altri Canali Nazionali",Cartoonito
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Super.it" tvg-chno="47" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/super.png" group-title="Altri Canali Nazionali",Super!
+https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-chno="48" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rainews24.png" group-title="Canali RAI",Rai News 24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italia-2-3k4y9ky8oj8f.png" group-title="Canali Mediaset",Italia 2
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="Altri Canali Nazionali",Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#EXTINF:-1 tvg-id="TGCom24.it" tvg-chno="51" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tgcom24.png" group-title="Canali Mediaset",TGCOM 24
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax.png" group-title="Altri Canali Nazionali",DMAX
+https://i.mjh.nz/SamsungTVPlus/ITBD4400001X5.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/casa-italia-53.png" group-title="Altri Canali Nazionali",Casa Italia 53
+https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-storia-uwdoqlac5rgy.png" group-title="Canali RAI",Rai Storia
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/mediaset-extra-pinz1jwpnlj3.png" group-title="Canali Mediaset",Mediaset Extra 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/hgtv-home-garden-tv.png" group-title="Altri Canali Nazionali",HGTV Home&Garden TV
+https://i.mjh.nz/SamsungTVPlus/ITBD44000056I.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-scuola-dbrhdmlaxwxg.png" group-title="Canali RAI",Rai Scuola
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-sport-hd.png" group-title="Canali RAI",Rai Sport + Hd
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 OPR/89.0.4447.48
+#EXTINF:-1 tvg-id="MotorTrendTV.it" tvg-chno="59" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/motortrend.png" group-title="Altri Canali Nazionali",Motor Trend
+https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-y2ssyw3p6xna.png" group-title="Altri Canali Nazionali - Sport",Sportitalia
+https://sportsitalia-samsungitaly.amagi.tv/hls/amagi_hls_data_sportital-sportitalia-samsung-italy/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-solocalcio.jpg" group-title="Altri Canali Nazionali - Sport",SportItalia Solocalcio
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/donna-tv.png" group-title="Altri Canali Nazionali",Donna Tv
+https://sportitaliaamd.akamaized.net/live/Donna_TV/hls/42EB42E58EA44362045EFEA804E3FCF0DB33C481/index.m3u8
+#EXTINF:-1  group-title="Altri Canali Nazionali",GM24.IT
+https://di-g7i
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/supertennis.png" group-title="Altri Canali Nazionali - Sport",SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/alma-tv.png" group-title="Altri Canali Nazionali",Alma Tv
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/chunklist_w41371096.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-105.png" group-title="Canali Musicali",Radio 105
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/r-101-radio-101.png" group-title="Canali Musicali",R101
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-deejay-tv.jpg" group-title="Canali Musicali",Deejay Tv
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-italia-tv.png" group-title="Canali Musicali",Radio Italia Tv
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="Canali RAI",Rai 4K
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
